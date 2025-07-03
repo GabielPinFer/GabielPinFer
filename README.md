@@ -1,4 +1,4 @@
-- Hi, I’m Gabriel Pinheiro Ferrari, 19 year old;
-- I’m interested in programming embedded systems, astronomy and soccer; 
+- Hi, I’m Gabriel Pinheiro Ferrari, 20 year old;
+- I’m interested in programming embedded systems; 
 - I’m currently learning English, eletronic systems, programming methods; 
 - This is a code repository to my own codes and those developed with colaborates.
